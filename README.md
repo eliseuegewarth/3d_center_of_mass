@@ -21,3 +21,6 @@ If new libs came to be used, they will be stored in `requirements.txt` file.
 ### Dev Requirements
 Dev requirements are stored on dev-requirements.txt file.
 Use `pip install -r dev-requirements.txt` if you are using pip or a equivalent command in your package manager.
+
+## Dev Environment
+You can easy config a virtualenv by running `config_virtualenv.sh`. Need virtualenv and virtualenvwrapper installed.
